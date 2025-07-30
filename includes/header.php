@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Sparkz Hotelo - Hotel Management System</title>
+    <title>Hotel Management System</title>
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="assets/css/font-awesome.min.css" rel="stylesheet">
     <link href="assets/css/datepicker3.css" rel="stylesheet">
@@ -24,7 +24,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="index.php?dashboard"><img src="assets/img/logo.png" width="250px"></a>
+            <a class="navbar-brand" href="index.php?dashboard"><img src="assets/img/hotel.png" ></a>
 
             <ul class="nav navbar-top-links navbar-right">
         <li class="pull-left"><div id="google_translate_element"></div></li>

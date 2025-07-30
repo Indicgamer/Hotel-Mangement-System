@@ -1,4 +1,4 @@
-<style>
+    <style>
 	.float-button {
         text-decoration: none;
         position: fixed;
@@ -57,10 +57,7 @@
     }
 </style>
 
-<a class="float-button" target="_blank" href="https://api.whatsapp.com/send?phone=919423979339&text=Hi%20Nikhil%20Bhalerao%20Freelancer,%20I%20need%20your%20Paid%20Support%20for%20Sparkz%20Hotelo.">
-  <i class="fa fa-whatsapp" aria-hidden="true"></i>
-  <span>Message Author<span>
-</a>
+
 
 <script src="assets/js/jquery-1.11.1.min.js"></script>
 <script src="assets/js/bootstrap.min.js"></script>

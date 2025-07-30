@@ -83,15 +83,8 @@
         
 
 
-        
+
             <li>
-                <a href="https://nikhilbhalerao.com/" target="_blank"><em class="fa fa-info-circle">&nbsp;</em>
-                    Know More
-                </a>
-            </li>
-       <a href="https://telegram.me/ndbhalerao91" target="_blank"><img src="assets/img/whatsapp-click-to-chat.png" style="height: 70px"></a>
-
-
-        
+            
     </ul>
 </div><!--/.sidebar-->
